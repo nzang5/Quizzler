@@ -7,32 +7,32 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		527907AE2CE13C0F009FC5B1 /* I Am Poor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Poor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		527907CF2CE13DF5009FC5B1 /* I Am Rich.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Rich.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		527907C02CE13C11009FC5B1 /* Exceptions for "I Am Poor" folder in "I Am Poor" target */ = {
+		527907E12CE13DF6009FC5B1 /* Exceptions for "I Am Rich" folder in "I Am Rich" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 527907AD2CE13C0F009FC5B1 /* I Am Poor */;
+			target = 527907CE2CE13DF5009FC5B1 /* I Am Rich */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		527907B02CE13C0F009FC5B1 /* I Am Poor */ = {
+		527907D12CE13DF5009FC5B1 /* I Am Rich */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				527907C02CE13C11009FC5B1 /* Exceptions for "I Am Poor" folder in "I Am Poor" target */,
+				527907E12CE13DF6009FC5B1 /* Exceptions for "I Am Rich" folder in "I Am Rich" target */,
 			);
-			path = "I Am Poor";
+			path = "I Am Rich";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		527907AB2CE13C0F009FC5B1 /* Frameworks */ = {
+		527907CC2CE13DF5009FC5B1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +42,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		527907A52CE13C0F009FC5B1 = {
+		527907C62CE13DF5009FC5B1 = {
 			isa = PBXGroup;
 			children = (
-				527907B02CE13C0F009FC5B1 /* I Am Poor */,
-				527907AF2CE13C0F009FC5B1 /* Products */,
+				527907D12CE13DF5009FC5B1 /* I Am Rich */,
+				527907D02CE13DF5009FC5B1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		527907AF2CE13C0F009FC5B1 /* Products */ = {
+		527907D02CE13DF5009FC5B1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				527907AE2CE13C0F009FC5B1 /* I Am Poor.app */,
+				527907CF2CE13DF5009FC5B1 /* I Am Rich.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +61,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		527907AD2CE13C0F009FC5B1 /* I Am Poor */ = {
+		527907CE2CE13DF5009FC5B1 /* I Am Rich */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 527907C12CE13C11009FC5B1 /* Build configuration list for PBXNativeTarget "I Am Poor" */;
+			buildConfigurationList = 527907E22CE13DF6009FC5B1 /* Build configuration list for PBXNativeTarget "I Am Rich" */;
 			buildPhases = (
-				527907AA2CE13C0F009FC5B1 /* Sources */,
-				527907AB2CE13C0F009FC5B1 /* Frameworks */,
-				527907AC2CE13C0F009FC5B1 /* Resources */,
+				527907CB2CE13DF5009FC5B1 /* Sources */,
+				527907CC2CE13DF5009FC5B1 /* Frameworks */,
+				527907CD2CE13DF5009FC5B1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				527907B02CE13C0F009FC5B1 /* I Am Poor */,
+				527907D12CE13DF5009FC5B1 /* I Am Rich */,
 			);
-			name = "I Am Poor";
+			name = "I Am Rich";
 			packageProductDependencies = (
 			);
-			productName = "I Am Poor";
-			productReference = 527907AE2CE13C0F009FC5B1 /* I Am Poor.app */;
+			productName = "I Am Rich";
+			productReference = 527907CF2CE13DF5009FC5B1 /* I Am Rich.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		527907A62CE13C0F009FC5B1 /* Project object */ = {
+		527907C72CE13DF5009FC5B1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1610;
 				LastUpgradeCheck = 1610;
 				TargetAttributes = {
-					527907AD2CE13C0F009FC5B1 = {
+					527907CE2CE13DF5009FC5B1 = {
 						CreatedOnToolsVersion = 16.1;
 					};
 				};
 			};
-			buildConfigurationList = 527907A92CE13C0F009FC5B1 /* Build configuration list for PBXProject "I Am Poor" */;
+			buildConfigurationList = 527907CA2CE13DF5009FC5B1 /* Build configuration list for PBXProject "I Am Rich" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 527907A52CE13C0F009FC5B1;
+			mainGroup = 527907C62CE13DF5009FC5B1;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 527907AF2CE13C0F009FC5B1 /* Products */;
+			productRefGroup = 527907D02CE13DF5009FC5B1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				527907AD2CE13C0F009FC5B1 /* I Am Poor */,
+				527907CE2CE13DF5009FC5B1 /* I Am Rich */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		527907AC2CE13C0F009FC5B1 /* Resources */ = {
+		527907CD2CE13DF5009FC5B1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +128,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		527907AA2CE13C0F009FC5B1 /* Sources */ = {
+		527907CB2CE13DF5009FC5B1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,7 +138,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		527907C22CE13C11009FC5B1 /* Debug */ = {
+		527907E32CE13DF6009FC5B1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -147,7 +147,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4ANA85MAKR;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "I Am Poor/Info.plist";
+				INFOPLIST_FILE = "I Am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -158,7 +158,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nashzangio.I-Am-Poor";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nashzangio.I-Am-Rich";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -166,7 +166,7 @@
 			};
 			name = Debug;
 		};
-		527907C32CE13C11009FC5B1 /* Release */ = {
+		527907E42CE13DF6009FC5B1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -175,7 +175,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4ANA85MAKR;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "I Am Poor/Info.plist";
+				INFOPLIST_FILE = "I Am Rich/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -186,7 +186,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.nashzangio.I-Am-Poor";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nashzangio.I-Am-Rich";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -194,7 +194,7 @@
 			};
 			name = Release;
 		};
-		527907C42CE13C11009FC5B1 /* Debug */ = {
+		527907E52CE13DF6009FC5B1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -257,7 +257,7 @@
 			};
 			name = Debug;
 		};
-		527907C52CE13C11009FC5B1 /* Release */ = {
+		527907E62CE13DF6009FC5B1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -316,25 +316,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		527907A92CE13C0F009FC5B1 /* Build configuration list for PBXProject "I Am Poor" */ = {
+		527907CA2CE13DF5009FC5B1 /* Build configuration list for PBXProject "I Am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				527907C42CE13C11009FC5B1 /* Debug */,
-				527907C52CE13C11009FC5B1 /* Release */,
+				527907E52CE13DF6009FC5B1 /* Debug */,
+				527907E62CE13DF6009FC5B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		527907C12CE13C11009FC5B1 /* Build configuration list for PBXNativeTarget "I Am Poor" */ = {
+		527907E22CE13DF6009FC5B1 /* Build configuration list for PBXNativeTarget "I Am Rich" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				527907C22CE13C11009FC5B1 /* Debug */,
-				527907C32CE13C11009FC5B1 /* Release */,
+				527907E32CE13DF6009FC5B1 /* Debug */,
+				527907E42CE13DF6009FC5B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 527907A62CE13C0F009FC5B1 /* Project object */;
+	rootObject = 527907C72CE13DF5009FC5B1 /* Project object */;
 }
