@@ -48,8 +48,10 @@ class ViewController: UIViewController {
         //See if the answer is right
         if userAnswer == actualAnswer{
             print("Correct answer")
+            sender.backgroundColor = UIColor.green
         } else{
             print("Wrong answer")
+            sender.backgroundColor = UIColor.red
         }
 
         //See if its the last question
@@ -59,11 +61,13 @@ class ViewController: UIViewController {
             questionNumber = 0
         }
 
-        updateUI()
+        Timer.scheduledTimer(timeInterval: 0.2, target: self, selector: #selector(updateUI), userInfo: nil, repeats: false)
     }
 
-    func updateUI(){
+    @objc func updateUI(){
         questionLabel.text = quiz[questionNumber].text
+        trueButton.backgroundColor = UIColor.clear
+        falseButton.backgroundColor = UIColor.clear
     }
 }
 
